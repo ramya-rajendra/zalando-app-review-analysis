@@ -1,0 +1,201 @@
+reviewId,theme,sentiment,feature_request,exclude
+02e2c9c8-9970-422e-a478-c43765d2142e,other,neutral,,no
+3dbba9dc-39b9-417b-a7b1-c20a7467e3e5,search_filters,negative,Add jacket/winter jacket categories for kids,no
+2dbae544-cc32-43aa-93f0-58d58764a599,other,positive,,no
+083aacc2-2f8c-4a16-88f6-5c6832f8d30a,delivery,positive,,no
+ad14efc9-7eb4-4f4b-9f83-44f9e95e33b2,other,positive,,no
+547ff63b-b253-412d-83d7-bd767d59aca0,prices_promotions,positive,,no
+185c4848-e770-435b-b318-96fbbc5f3820,search_filters,negative,,no
+1260ca92-3248-4f84-8edb-b3649f3e518c,other,negative,,no
+7cbad1f1-2c50-4e4a-85b3-02aa1f8fec8f,customer_service,positive,,no
+f14433a5-64ca-4e0b-82dd-49175b97d110,other,positive,,no
+25824dfb-18aa-4a21-861c-4790c7147e5d,returns_refunds,negative,,no
+082222dc-716f-406e-b564-96cd7bfcd6d6,other,positive,,no
+e954f8c1-1e5f-455e-98c0-0e6e2c72558c,account_login,negative,,no
+34ccb11b-0ab2-4f95-8cd1-390b7729b959,other,positive,,no
+c8380650-ef30-4929-83e7-716838524ce0,app_design_ux,positive,Add dark mode,no
+90fd27f9-eca9-4758-a3f2-e4521517b7c5,other,positive,,no
+3f1858d9-e766-4c9b-acea-74381241eae8,app_performance,negative,,no
+9a4480bc-9c6d-4d6d-8089-35a9d384679c,prices_promotions,negative,,no
+9eadf5ec-8979-44ea-b20f-9dfd7831ab33,other,positive,,no
+a6d79a4b-2fda-477d-aa87-bc6d7659ad4f,app_performance,negative,,no
+8f3f44a9-eb31-42a7-aba0-44a7ab9e3141,returns_refunds,positive,,no
+b0057dd6-1306-4e3c-836f-6103aef91e34,returns_refunds,negative,,no
+29b56695-7cf7-4eee-b6f7-f55b137f2a3c,payment,negative,Overview of paid and outstanding amounts in the app,no
+0e1d9187-a25a-4fed-a0bc-41012ff44ce7,other,positive,,no
+8d2789ac-fbc6-45a4-add5-e125a45d7cbd,other,positive,,no
+41c409de-4cd5-435b-8b99-b954b5468396,product_quality,positive,,no
+fc3c8601-7780-46cc-b780-b26ff8c1ea16,other,negative,,no
+869e8eae-6ddb-478e-9c65-7664524fc47d,app_performance,positive,,no
+b039367e-f465-4a1d-abf0-9751705f4176,product_quality,negative,,no
+9e03ab76-a8f1-4d6c-bad9-8f723d8ad988,other,neutral,,no
+73ca52fd-b662-4574-abb9-0a19b035d687,account_login,negative,,no
+9ce29353-0c0c-472b-a501-602b91f58be7,other,negative,,yes
+d3f6b791-be6f-4b93-9915-731258e68c10,other,positive,,no
+5eb00994-8f16-4acd-903b-d89e49818a1f,other,positive,,no
+7776a0ff-d373-4fce-9392-2ea220a2daf4,delivery,positive,,no
+048e44f6-ce16-4fd5-ab8f-e0276e43c094,app_performance,negative,,no
+5e43b5f9-0ace-4003-ab1e-c088826291f9,app_performance,negative,,no
+40b6c621-059b-4182-bff2-ac4c71d0513f,prices_promotions,negative,,no
+ee4715ab-7a99-4c4f-954b-4c29e5528e65,other,positive,,no
+499e61f9-be54-4f53-bd1b-c5149aab43aa,other,positive,,no
+7a3d6de7-4f15-4573-be5b-2e91d70aa037,prices_promotions,negative,,no
+bbd58479-70f8-4571-b2eb-ea0a47399299,delivery,negative,,no
+ddaefa11-eb7a-4aab-ad3e-45248ae18d2e,delivery,positive,,no
+65218523-d4ae-48f1-ae73-e5d1c1de4078,other,negative,,yes
+e8a307d6-5142-4908-844f-9f3a9cf38a4a,delivery,negative,Allow Austria as a delivery address,no
+f421c202-cda0-45a7-aeac-a5b878e1556b,other,positive,,no
+83e614a1-13f9-4d37-a494-e079a0a71200,delivery,positive,,no
+f6c216b9-f775-4d09-a580-20be19810b78,other,negative,,no
+47d80a71-09ad-414f-9045-796fb459586f,delivery,positive,,no
+cb9603e8-4bf9-4ea8-a4fb-3bc2847a1f28,other,positive,,no
+9d432f8c-cf4a-4e32-8e0a-54b78c22ba31,other,positive,,no
+2abcb4d2-6338-4a55-816a-b99fe054f08a,delivery,positive,,no
+af168d04-ef3a-4e39-b489-ca90b0f2b557,customer_service,negative,,no
+8cf318f0-c9a8-47f5-ad76-24cd198da469,payment,negative,,no
+c3d9cb9b-85a1-42bf-94de-b6d8ecceb41b,other,positive,,no
+9cc72a09-e1c3-4976-acae-8f01d95224f2,other,positive,,no
+bc6ea0ab-7673-48fd-bc93-8dee2b5541c9,other,positive,,no
+6f3a22f4-6be1-4ade-b82c-5b489135ae64,app_performance,negative,,no
+3b43b2ee-4db2-4a8d-b81a-901dd1fd79f7,prices_promotions,positive,,no
+5ea7dd57-de44-48ff-a23a-e208ecfa75d8,product_quality,positive,,no
+3b929488-b942-44de-8ec3-8fdff6056ebd,other,positive,,no
+c6a141ee-3ae8-43a3-8017-c10d422fbda7,prices_promotions,positive,More discounts and offers,no
+63c2e1e2-c35f-4f81-8d95-0b3c065e021c,prices_promotions,negative,,no
+963d69c0-a503-41af-8b95-22e3c20ac028,product_content,negative,,no
+9a4c4a42-409b-4d1a-9ad2-b88aa276b0bf,other,positive,,no
+1c80a3ca-ccd6-41a4-ade3-1a862b287598,other,positive,,no
+42c88a76-3124-4c2b-8456-60885fe141a0,app_design_ux,negative,Allow removing items from boards; general contact option not tied to an order,no
+596804ff-2050-4c63-b085-3b63ef4b9372,other,positive,,no
+6ec77c06-14b2-41b3-a66a-38b572594935,account_login,negative,Add a logout option,no
+25885db1-1254-489d-833a-98cff491d981,delivery,negative,,no
+d4b1f85f-cbc5-4127-a50c-15732a90ba86,product_ratings,negative,Show customer reviews in the user's language,no
+8fff07a9-6238-480c-8897-7ff2cd4472e9,search_filters,neutral,Working photo search,no
+3ea47806-69cc-4382-b88d-a6e672baf6e4,payment,negative,,no
+ceec51ed-c643-4745-8617-4f6134d3521b,other,positive,,no
+dc76775b-19a5-4dd6-b0f4-7a66dcf67808,payment,negative,,no
+6725786a-19fe-45d5-9fda-b67d6c373932,product_quality,positive,,no
+044f65fd-d169-4380-a5aa-4476eeab378d,payment,negative,,no
+d9f170f3-74e5-4eda-aff2-50f7128e4a6f,customer_service,negative,,no
+16eddce3-9740-4b8f-bf40-d4d8ed876b56,other,positive,,no
+a3cb6bf5-15d8-47d3-a463-2ea24a735a61,app_design_ux,neutral,Add dark mode,no
+53eaf425-76df-4d52-a352-87fa1f51b4fe,app_design_ux,positive,,no
+536035c3-e20c-419b-a548-05b0f61e3f4e,payment,positive,Pay invoices via Klarna,no
+47aa996a-779e-43f1-8ee9-4fc353464ba8,delivery,negative,,no
+5b5cedb1-eae2-4e9c-bb57-9f99ed1eca65,payment,negative,,no
+ba417413-cd8d-43cf-92fb-608c08001039,other,positive,,no
+feade539-9d5c-40da-a8c7-45ed9fe8be22,account_login,negative,,no
+ac3e801a-ffc3-4dbb-b849-a1e9ffe5fdd6,other,positive,,no
+ac76472d-d8a2-4d9d-b465-52a816caad52,payment,negative,,no
+3c2d6a71-b044-4a5b-8902-c01e20495936,customer_service,negative,,no
+4f8de030-6e6b-4b16-b736-cd5a80a839f2,delivery,negative,,no
+ba3675bf-4c8f-4b31-afb4-55bf9b87ea62,other,positive,,no
+ae612467-9dba-4304-a83f-e5292225365e,app_design_ux,negative,,no
+17c31496-2859-40f8-bd08-505a94b7d338,delivery,positive,,no
+1ee30ae0-bd27-4c33-94b4-d48e9d109d1f,other,positive,,no
+a52bb827-6ff9-4512-9537-a22a9650f2cc,prices_promotions,positive,,no
+79039bf3-1fab-46a2-b800-2deb7eaf6d41,other,positive,,no
+09784dec-02bb-459d-9528-98f08bbc7d4d,product_quality,negative,,no
+3c5b0308-3714-4dc3-a29e-7aa8cee7d707,customer_service,negative,,no
+7736e17d-4fa8-4bf0-8f7a-a5896d748e9a,prices_promotions,positive,,no
+1c236a7f-a20d-4012-9006-1313ccd1fcc2,other,positive,,no
+5b9562f1-66b1-4bf9-8af1-fb24cbb3a02a,other,positive,,no
+5981b37a-5df2-4da8-af0f-31dc7b1a2a8e,prices_promotions,negative,,no
+34ca9e16-f97e-480d-befe-5b4fbf3e1400,other,positive,,no
+c3c69847-3f68-4b6d-b482-15b1b6c4fe72,delivery,negative,,no
+a2f41616-5d91-40ec-80d1-2204bfda79fe,prices_promotions,positive,,no
+8edf7740-767f-476c-b4d3-895c2935691c,payment,negative,,no
+52a933be-1698-4228-bf4b-f10ed2a13709,delivery,negative,,no
+f3a92ca8-a0d2-46c4-afbf-9abee0a88cdd,other,positive,,no
+2db4fa13-fc8e-4741-ba9d-3e66a6e7e40b,product_quality,negative,,no
+ce741fc7-8d8a-4f29-8288-edc34767ced2,delivery,negative,,no
+c9790422-9082-47e1-98cc-cbb53bd4ca9f,other,negative,,yes
+b3522697-66e4-48ce-8c4b-4ea2d8e103c8,product_quality,positive,,no
+a25aa4e3-6c4f-4ecb-aa63-71c6e47bc711,other,positive,,no
+acc661d8-e641-4bcf-9166-802bcaf5b5d5,product_quality,positive,,no
+5e7a0fb2-ae37-499d-8eb7-71d08b493c34,account_login,negative,,no
+e92a2e7d-ffcb-4b0f-a282-be34abd954ed,other,neutral,,no
+8d0bd569-5860-4666-8417-71cb226bbdca,other,positive,,no
+92d265be-d29a-40d4-b5ef-21c47f4e9b80,prices_promotions,negative,,no
+be7b7567-c47d-4bbc-afdd-d9e6600af7a0,delivery,negative,,no
+58fe798f-7285-483a-968e-a40e116d1309,app_performance,positive,,no
+c91fecb4-b4a0-4445-81a5-c1b0ab77a027,product_quality,positive,,no
+3579a667-3104-42a2-a490-94beff0770c5,returns_refunds,negative,,no
+94b6b3e9-a11b-4689-b338-5b3082989a06,customer_service,positive,,no
+1888a2ab-0f4f-4ca5-ba40-5cbef8d11090,other,neutral,,no
+9b59513d-cbf6-4a62-93ef-82acc0d0bd66,delivery,neutral,Delivery to Portugal,no
+f065ac26-747a-4b77-880a-8348db8f5a94,other,positive,,no
+f7520207-2560-4569-b917-8f6cbbfbaad5,other,positive,,no
+def53002-9411-4a53-b8ec-6fc11dd2f54d,returns_refunds,negative,Include a return label with the delivery note,no
+390125dc-1d0f-455d-956c-578645ad492f,account_login,negative,,no
+64ecfbc8-4158-4978-80e5-32254110c796,delivery,positive,,no
+67d1da3d-59fa-455b-a225-603c7e4ef753,customer_service,negative,,no
+1302285a-53e0-4161-9a57-6b4f4aa4d1ee,other,positive,,no
+2acec0d8-b858-47f4-801d-30b8be0747d7,other,positive,,no
+757dc7c9-c95d-46dc-9c19-db1da6a47f37,other,negative,,no
+4e84df13-f736-455a-b8d6-7fc620942bc5,search_filters,neutral,,no
+1d7f8a47-05ff-48d7-9c42-d53a1e5eaf2d,other,positive,,no
+5c60294e-365d-4421-b50f-8e6d0b96ac1e,payment,negative,,no
+d37f4d50-cb8c-48cc-983a-1abc4118f8e0,app_design_ux,neutral,Add dark mode,no
+13e48404-5180-4f58-a37c-d4892dd87f65,returns_refunds,negative,,no
+84efc6b7-4dd3-41b9-ac29-8484b0f37104,product_ratings,positive,,no
+cf114345-3132-45b3-a7c5-8aefa37dcc88,app_performance,positive,,no
+95e2af6c-03e6-4b25-b7a8-94650da89cbc,other,positive,,no
+d79067e1-5608-4f6a-bc86-e31add71b91b,product_ratings,negative,,no
+295870cd-2450-4e58-acd5-c0bd60737e84,other,positive,,no
+c73dff84-ed86-4dc1-9c43-831151690c4d,product_quality,negative,,no
+f3c2548b-c464-4426-8555-7237456f1fc6,other,neutral,,no
+ccffc0f8-fe08-438a-b97f-a5ab22a7d2d7,other,positive,,no
+22748a7c-4444-4732-9ab8-a8a38e7dd626,other,positive,,no
+5ab4dea9-e7e9-4b8e-9266-61a30368702b,prices_promotions,negative,,no
+c3e353ef-2b7a-4d28-a50f-066330a7136c,prices_promotions,negative,,no
+3b2af256-ba63-4efc-9114-1bff2569eff0,app_performance,negative,,no
+09bb85b5-69ad-4144-8594-269da78e5f61,returns_refunds,negative,,no
+639c047c-a11a-4395-983a-0ad8657bbc18,other,positive,,no
+574c9e5d-409e-431d-b1bd-a6e43a48507f,app_design_ux,negative,Landscape mode on tablets,no
+c4dfa2b8-482a-44e9-9321-726ebfab01df,returns_refunds,negative,QR-code returns without printing labels,no
+b7a599c3-d385-4576-8d92-439a11bd8f97,search_filters,negative,,no
+b831bed1-7ca4-4f65-8a25-5522e9e352db,other,positive,,no
+02464af0-ba71-4c4f-935b-6f5e211af9a9,other,positive,,no
+1f965288-3b3d-42cd-8ad9-42bbf805fc86,other,positive,,no
+34bb31bd-5160-43cf-860d-19f37145e305,other,positive,,no
+1b60987a-cb41-4a6c-a66a-aa9c6e833ccd,sizing_fit,positive,,no
+7a1fa447-8f74-4a04-aed5-052a446c82d7,other,negative,,no
+46aa1d4a-3418-48a5-814c-287f16d6ff0e,payment,negative,,no
+2418414f-3f5c-44d5-a854-f5638a1edbee,delivery,negative,,no
+622ee674-139c-4190-83e6-35aea82bcde2,prices_promotions,positive,,no
+d9ada80a-427f-4781-aa77-2a1efd93a991,customer_service,positive,,no
+4988b557-13c9-40a8-abaf-d94c3f679deb,delivery,negative,Allow changing the delivery address right after ordering,no
+d90d94fa-a1bb-48f6-8440-3332b90b486c,search_filters,negative,,no
+e2a53c70-b46d-4314-afc2-56ede98c5a41,account_login,negative,,no
+d8ae3efa-b18b-4128-89de-23e6b65609c0,other,positive,,no
+86156088-b168-4dab-be62-51a653694aaa,prices_promotions,negative,,no
+11a191b0-ec45-4c7e-bf26-71172d96ea51,delivery,negative,,no
+e22b9bfb-6329-4334-9b69-8b21fef8ea7f,delivery,negative,,no
+b95b14a8-6f3c-48a1-86fc-01f1468e35cc,delivery,positive,,no
+f56247a9-d1f1-4fd6-8a4b-bf0ff4b5b671,other,positive,,no
+e012c2dc-e7b9-434b-b50b-a1d3a3bc2e11,delivery,positive,,no
+0091c1a2-8f3a-4731-beae-2a9620eeca6b,search_filters,negative,,no
+e70d9b19-557c-4bdb-aeeb-e7f1649a8e43,prices_promotions,positive,,no
+360e6988-5e42-4ae1-879e-cc0fa5aa1362,other,positive,,no
+dd489f39-bf82-401c-a076-ad28ccb18cc6,product_quality,positive,,no
+7fa6c662-7e80-4bd6-9f22-be7c2d49aa66,other,positive,,no
+4f58acfb-62a8-4145-8940-32b35a62183d,product_quality,negative,,no
+06c3d107-985b-49dc-bfc7-3ebefc87792f,other,positive,,no
+a5a788ab-0c6b-4a5d-8350-9a107fe416d6,prices_promotions,negative,,no
+323923fb-4848-4942-906c-88eb0fd31adb,search_filters,negative,Keep the previous search term in the search bar,no
+22b34fe8-995f-474b-bd15-4dd340c8af0f,app_design_ux,positive,,no
+bb1b8578-e541-422a-a9b4-a8d98f5314ce,other,positive,,no
+4e1eb5a3-d44d-449f-beb5-dfb9d74b4510,other,positive,,no
+34a6aca7-c2b2-4051-86b0-1e4babc10352,app_design_ux,positive,Back-in-stock alerts via push notification or SMS,no
+5a037420-7eee-46d2-bc8c-4b8aed4b8d53,other,negative,,no
+00a2a28c-01f7-451c-8ec3-80f42f6d8435,delivery,positive,,no
+b95e0bf6-a784-4f54-add3-94a695bb623e,sizing_fit,negative,,no
+fb53ecce-3154-4359-b85a-c73a4b5dc657,other,positive,,no
+82e0c90e-67cc-4e42-95e6-34e567a7fd5b,customer_service,positive,,no
+268e45cc-8930-4648-bc8a-a3a40c4dbd1d,prices_promotions,neutral,Keep compensation vouchers after cancelling an order,no
+acb121f6-fe6a-4179-9bad-e5f1a5286977,other,positive,,no
+7370ee45-13d3-49fe-867b-e904c6269d61,other,neutral,,no
+a7db49ed-8951-4070-97bd-cd651b04871b,app_performance,negative,,no
+49c2b1c9-b884-4eea-b89e-40fb6a2a346e,product_ratings,positive,,no
+3920b1d4-9cdc-4327-be4e-873035cbabd1,other,positive,,no

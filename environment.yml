@@ -1,0 +1,16 @@
+name: productproj
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - pandas
+  - statsmodels
+  - matplotlib
+  - jupyter
+  - python=3.11
+  - ipykernel
+  - pip
+  - pip:
+    - google-play-scraper==1.2.7
+    - python-dotenv==1.2.4
+    

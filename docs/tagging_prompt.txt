@@ -1,0 +1,21 @@
+I'm doing a portfolio project on Zalando app reviews. The attached CSV has German Play Store reviews (columns: reviewId, content).
+
+Please classify every row. Read each review yourself and judge its meaning. Don't use keyword matching or rule-based code.
+
+For each review give:
+- reviewId (copy exactly)
+- theme: exactly one of: delivery, returns_refunds, payment, app_performance, app_design_ux, search_filters, sizing_fit, product_ratings, product_content, customer_service, prices_promotions, product_quality, account_login, other
+- sentiment: positive, neutral or negative
+- feature_request: a short English description if the user asks for a feature, otherwise leave it empty
+- exclude: yes for political or boycott reviews not about the shop, otherwise no
+
+Rules:
+- app_performance = crashes, freezing, slow loading, images not loading, errors, settings that don't work, vague "unusable since update"
+- app_design_ux = layout, homepage redesign, navigation, pop-ups (including rating requests), ads/influencer content, dark mode, "old version was better", and positive comments about usability
+- product_content = product descriptions, material info, product images or videos
+- product_ratings = removed or missing product reviews or star ratings
+- Loyalty program (Plus status, bonuses) -> prices_promotions
+- Account blocked because of returns -> returns_refunds; account blocked with no reason -> account_login
+- If a review covers several topics, choose the one the reviewer mentions first
+
+Return a downloadable CSV named tagged_part_X.csv with the columns reviewId, theme, sentiment, feature_request, exclude. Don't skip any rows. At the end, tell me how many rows you tagged.

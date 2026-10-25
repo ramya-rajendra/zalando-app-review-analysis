@@ -1,0 +1,201 @@
+reviewId,theme,sentiment,feature_request,exclude
+965d035b-28fd-4b43-bcac-c69d55f55aff,app_design_ux,negative,,no
+7a63c9d5-8da6-41fb-9e32-b7f0436c9bc6,app_performance,negative,,no
+59981f82-1065-40a2-915d-86857d0e9ec3,customer_service,negative,Add a phone hotline or email contact for support,no
+5b786a3c-0661-4a6a-8957-d46ddc83bced,delivery,positive,,no
+42ca7e64-b4d9-4620-a4e8-4d066980e84c,customer_service,positive,,no
+6b2caa12-d7c5-4e91-a269-ab3729e4410b,app_performance,negative,,no
+b9cfd433-57d1-45c0-b65e-c9c628d16d3e,app_performance,negative,Add filters to the wishlist; show product reviews,no
+ee5aa49b-15bc-4e5b-9897-a468fc4207a2,delivery,negative,,no
+2bdb2a42-8514-4897-b337-00eedc3dc198,app_design_ux,positive,,no
+dfbb2c04-33c3-49fa-9c5a-64a6ea21c685,account_login,negative,,no
+42b1af69-82c3-47a7-8ce4-21fec9010aa9,app_performance,negative,,no
+3cdfd1c6-4bdc-416b-8c03-dcfddb388f98,other,positive,,no
+82a1d57f-a75b-4323-9952-963f80e010a2,other,positive,,no
+59cf0a27-a9b5-4cba-bc44-bac793fbdf12,account_login,negative,Allow browsing the app without logging in,no
+c370da6f-fdbc-4bc5-97c6-eb1291c26ad2,app_design_ux,negative,Restore the 'choose your size' option in favorites,no
+edf7264c-a7b9-43f1-a327-fc86c4ba5ee5,delivery,positive,,no
+d775eb67-aed6-41d9-b80e-00f5347ba366,search_filters,negative,,no
+0ea3d321-75f7-4d21-8272-951d489842d0,app_performance,negative,,no
+6a2c3650-30db-47c2-b073-2fee81d31636,other,positive,,no
+a8f9b496-a0d3-48ac-9159-d93ed9e34ea9,other,positive,,no
+7df79612-8235-46c7-9e71-c3da7510ebc2,app_performance,negative,,no
+f8b41da9-d9d6-453f-abc8-57fbb8d8bff6,delivery,positive,,no
+3b1e4804-6e0b-4c8b-9aab-7437398f9318,app_performance,negative,,no
+2e178d8c-e1fa-4301-956d-1dc50842a48f,app_design_ux,negative,,no
+bb82004e-71df-44fd-8efd-4f7af87ef86c,app_performance,negative,,no
+02ed7097-fc72-489e-8d3c-58af6037096c,product_ratings,negative,,no
+a46b59c6-cba9-4662-aab8-76d8dc9cb884,other,positive,,no
+cb9dbeaf-c2f8-4034-b746-0c53733adffc,other,positive,,no
+5c260ebe-628f-4721-96c3-9b74b48288c8,other,neutral,German language option in South Tyrol; allow men's clothing with women's shoe sizes,no
+20162709-8f12-4f9e-b683-ede34bebee37,app_performance,negative,,no
+ea14c898-c94b-485a-b0b7-8167efe1ddac,product_ratings,neutral,Show product reviews before purchase,no
+af516e81-4831-4b0c-9cf0-15b99eae6dfb,prices_promotions,positive,,no
+c00fdd79-ea86-4f8b-a7c8-c7645a9b6d39,other,positive,,no
+139f30f7-8eff-4c11-bbb8-af9a119fa72b,other,positive,,no
+8f4c7f87-121e-4579-b8dc-27ab96fc01dd,returns_refunds,negative,,no
+055b16d2-19a9-4867-9247-4488d4c5e269,other,positive,,no
+80f30a2f-7f3b-4959-be8e-7c0457f579f0,prices_promotions,negative,,no
+9c7c5f3a-3dd9-4f7c-87ca-14e48d2e2ee9,other,positive,,no
+a74cf5b1-7a27-4ff1-a395-c44a08387c2e,payment,negative,,no
+2a0401ad-9a5f-41ae-8c45-5aa8bdf5f220,other,positive,,no
+aedede27-1aad-4b46-adfd-ea14dec61e10,other,positive,,no
+96bc71de-497f-479e-aa1b-056e130d6d97,other,positive,,no
+855aedec-2854-4abf-94d4-5306e3c67616,other,positive,,no
+c1ca88e6-c727-49f9-a58a-f8329f59fe3b,account_login,neutral,,no
+45ea0e1b-f5fb-432c-8fea-40b556a5acb4,delivery,positive,,no
+9b787ec4-4c67-45fe-8fec-836f964fce3d,other,positive,,no
+71841ac7-eb26-4182-8186-7ace08df1b81,delivery,negative,,no
+582182c1-2015-41f1-8a9a-dea79609bbcb,payment,positive,,no
+20eea8c2-511f-4221-bd43-547ebcda2974,other,positive,,no
+e90cfaaf-9929-410b-a322-5a0d94a64f98,returns_refunds,negative,,no
+16464e3e-542e-4f9b-9255-0d4f3dbf3e74,other,positive,,no
+a8c64f82-dd3f-4b34-ac6d-0c5ad7cf53b3,app_design_ux,negative,,no
+153db982-0981-4196-b2c5-fea888081ffd,product_quality,positive,,no
+2ef1cf54-9ebc-4c55-b9c9-4fa450d2c7eb,other,positive,,no
+fb088e71-de5f-4ff1-9600-25868faa4302,search_filters,negative,Allow manual correction of body measurements,no
+5f069d00-e594-4fb1-bdf5-354371a3c838,other,positive,,no
+1f414c07-6900-4a0a-8b39-758fb7b74f5c,other,positive,,no
+f988fbc9-fc98-481a-9522-3ed8bdeb3fe0,other,positive,,no
+2a02b96a-f05e-410e-8961-60d2130e4113,app_design_ux,negative,Option to remove the in-app assistant,no
+51b69b33-9e1e-4053-9137-1e6473705602,delivery,negative,,no
+eb3e39ea-af6b-4bba-a0c9-208a821966f1,app_performance,negative,,no
+6e50ad81-22d0-467f-aa98-7f1decba80bd,app_performance,negative,,no
+23827cfb-fe53-4e31-bd7b-da50759b2a32,product_quality,positive,,no
+94021f7f-5886-4a5e-b98a-76c63cfa4c4e,other,positive,,no
+0907b770-f6e4-4c0f-880c-119a27af89f4,other,positive,,no
+515b56de-2cee-444d-9d27-39ef3f545e34,customer_service,negative,,no
+eac80521-4873-4581-acbf-a185b159d807,delivery,negative,,no
+f9b5477b-9c50-41f0-b20b-6f355322c3ef,delivery,positive,,no
+e8a2ad34-ca62-4a3f-987e-5027a46f623f,product_quality,positive,,no
+a7f467fe-c54d-42c7-98c0-346f8e17941f,payment,negative,,no
+1e2bea59-c5b5-488e-9935-6966517483a3,other,positive,,no
+1b62878d-b4ff-471c-b609-200c31ed9fc4,payment,negative,Show payment status in order overview,no
+72e0ffc8-d7fa-42d3-b2fb-34db40dbac4c,app_design_ux,negative,Add dark mode; allow skipping the logo animation,no
+314ed52f-0ec3-41f4-bccf-3d1b5ffd352a,app_performance,negative,Allow saving searches; add manufacturer size charts with exact measurements,no
+ca71d591-1014-4289-a20a-635808b58d3a,returns_refunds,negative,,no
+e203bd7d-f300-4d06-9a44-9355cea48364,other,positive,Homepage that simply suggests clothes,no
+3dddb880-17de-42d6-931e-030de96b5a73,app_design_ux,negative,,no
+88c0795c-96bd-46bd-9370-753ff4751ed0,product_quality,positive,,no
+de1c8161-d74d-4dfa-9766-7cea578fa0f3,app_performance,negative,,no
+ec7eb7d2-3dbf-4e56-bd64-57656938aea7,other,positive,,no
+f0e2b2c9-fc41-45f1-b7c0-b3de5b78453f,account_login,negative,,no
+a653d7df-ef67-4585-a944-d2f70a9eaa3b,app_design_ux,negative,Add dark mode; show navigation bar when scrolling up,no
+7326c039-8c93-48ec-9e2a-b11be27d074b,returns_refunds,negative,,no
+d87b4f26-1a8f-4aac-b9c8-8f13b83e59c9,other,positive,,no
+5943642d-1ded-4dea-b245-f922e1a359b4,app_performance,negative,,no
+96adfb8e-7e3c-4fd8-9880-7a81b4bca369,returns_refunds,negative,,no
+92cb254e-6cf1-44f2-9d43-01e72122850f,account_login,negative,,no
+3d6a5105-44f4-442d-93dc-73a34acd7dd1,payment,positive,,no
+edea1b61-eccf-43a9-8df4-d9c4ea6bac9d,other,positive,,no
+f6856ff6-abfa-4256-90bb-4f92c5e3cfc6,delivery,negative,,no
+343de2be-1539-4130-941c-faaba222abc9,app_performance,negative,,no
+78e2e439-9daf-45e9-af9a-a4023f21f165,other,positive,,no
+52ef90cb-0dd3-4ce2-a007-b32af633ec27,payment,negative,,no
+fba6e92c-6178-487f-8e3b-800695b63dbf,prices_promotions,negative,,no
+5e4b392c-7032-4a88-822f-57825a6877a1,search_filters,negative,,no
+ab43a984-f5c8-482d-9347-75c296459d5c,app_design_ux,negative,,no
+45614aaa-4c61-4506-8cb9-e30ae97b437b,delivery,positive,,no
+055865fe-7179-446d-976a-ad28e105cab7,account_login,negative,,no
+c1b5ffa2-f615-4809-b7d7-fc6aa8d032c2,sizing_fit,negative,,no
+1874b9f4-cf9f-4a7d-8051-d80f45405082,payment,negative,,no
+c3087b9f-fc4d-41e4-90f5-4b31259841d0,other,positive,,no
+1c4d1d63-f8c3-403d-8aad-c49533f2f258,app_design_ux,positive,Add dark mode,no
+9aa0e415-afe6-481b-9a8a-ce82c84c15d1,account_login,negative,,no
+74d0763e-98a2-4de9-85cf-d8c0edcf95fa,returns_refunds,negative,,no
+2f265af4-d8e5-4881-a7f2-69e13781273a,sizing_fit,negative,,no
+7fd493a3-c7fe-4773-be94-71335d298407,product_quality,positive,,no
+1bb67170-0205-4075-9752-70b54f31617d,app_design_ux,negative,,no
+73beefd2-6825-4fc6-be47-782819a6a840,sizing_fit,neutral,Allow manual entry and correction of body measurements,no
+8bcd9390-24a3-4ead-b12c-8dfa1a72707d,returns_refunds,positive,,no
+efff60aa-bf6e-4312-82e6-c56f558510c0,search_filters,neutral,Filter favorites by accessories and shoes,no
+874b7d5a-ca63-42e1-862b-4b22c1a3b6cc,other,positive,,no
+cf1f0070-6630-4c0c-a2ec-f0bb636b8a07,returns_refunds,negative,,no
+75ffc065-a425-4192-9aba-ff0f44d78c94,other,positive,,no
+fb0483ae-9f15-482a-9439-955d41357c20,other,positive,,no
+8fa379bc-e669-4002-ab28-bf877c758c29,delivery,positive,,no
+3c9db263-01d2-49ac-941c-fea16a06e593,account_login,negative,,no
+374d8c71-39e4-40c4-9af8-0b0134b0f4ab,app_design_ux,negative,,no
+3a65c636-1b02-43da-b59a-5e907666f148,other,positive,,no
+10c2f715-f986-4bf2-aaaf-3fb8751ab1b1,product_quality,neutral,,no
+b11252cf-4989-44a7-8348-a8fd8c2233df,returns_refunds,negative,,no
+66550a2d-017e-4e9f-b41e-6b18d5b67ddf,app_design_ux,negative,Allow switching off dark mode,no
+dbb1b783-c07c-47e4-bfc7-e860476c4101,app_performance,negative,,no
+4d31a859-9f01-4522-b589-08ddbcd1b106,app_design_ux,negative,,no
+1984647f-7264-40f1-97cf-a1ff12406278,app_design_ux,positive,,no
+f69c91b9-284a-4894-8ebe-90849635c09d,app_design_ux,negative,,no
+3c05367a-2878-4f8a-8bd2-aed4845adf3e,app_design_ux,negative,,no
+51add5f4-de69-4078-a2a0-ec0237a0e320,product_quality,negative,,no
+b499ffa8-a76f-481a-a2e9-f3ea4b6fcef5,other,positive,,no
+8411398b-6f4e-493b-8c30-12ff71dd2d86,other,neutral,,no
+706efec9-3064-4d5d-88f4-afc7bd9b72d1,app_design_ux,negative,,no
+18dfbf35-22f9-45c4-9503-cbdc8246c2c4,other,positive,,no
+eab39d50-cd9d-4604-b813-882f48f4da2d,product_quality,positive,,no
+121d35ff-9df8-4480-ae2a-ccdcec61128b,other,positive,,no
+f8bd7449-1026-45ad-81bb-3545512b34bf,app_performance,negative,,no
+7a75d5df-dd4e-40c1-90d7-176d02a4099a,account_login,negative,Add a clearly visible logout option,no
+858cf192-646f-427b-8459-c826df0cbe4d,app_design_ux,negative,,no
+999a4d63-4dc6-4124-b9bc-b4925fa8a191,delivery,positive,,no
+20c76694-4e08-468a-8c41-0da3b65b8713,prices_promotions,negative,,no
+77300a4a-c1d4-4344-93ea-71bdaffdb16c,other,negative,,no
+439548e9-701c-47f2-be1c-8a89ec37d5c5,other,positive,,no
+83c4a640-ff62-4ff8-959f-56900a81c336,other,positive,,no
+6857a4de-3339-4fa4-9424-6106b4727db8,app_performance,positive,,no
+e7f25dfe-0cfc-48d2-ad22-d3cc914568f7,sizing_fit,negative,Add size charts or manual entry of body measurements,no
+34c48c5f-4014-4427-9a9b-4ea77a68d291,app_performance,positive,,no
+c38893a6-670a-4e81-ac53-bd4218ad28e7,app_design_ux,positive,,no
+2f514b59-5017-4cfb-ad5c-709da6e3e95b,app_performance,negative,,no
+17c0bd63-2eff-42b3-bed3-201db47cf447,product_quality,positive,,no
+39ad120c-1da9-4bdb-a550-c0a64dad5cbf,other,neutral,,no
+54631e69-f3e8-4160-8729-6523cf9a103f,product_quality,negative,,no
+90f8e6b8-d430-45e5-9ad3-3589d072d0d0,other,positive,,no
+3a3deb0c-4698-4155-ac26-97ced82923fa,product_quality,positive,,no
+fd84e8af-bef5-4f5b-b034-bf3d572f84cc,other,positive,,no
+4f07866a-c2d1-4f26-8e80-21262ff6d143,app_design_ux,negative,Bring back the two-column grid view,no
+4899f460-cbd7-42e7-ac61-fab055312d8d,app_design_ux,negative,,no
+0ab2f2e4-d05a-40e0-a243-3eee9b7b83f8,account_login,negative,,no
+3c7486d9-7488-4451-9550-d42d4b7c0180,app_performance,neutral,,no
+356636b4-e96f-4c72-afd9-fc0e6c307da5,app_performance,negative,,no
+2079c978-e8fc-4ab5-8e54-110447bce5dc,app_performance,negative,,no
+b2a063fb-4947-4a2d-aed6-5f43f64476ae,search_filters,neutral,,no
+3d182894-2805-46d5-9e9a-00165a97a5ca,app_performance,negative,,no
+b9cb1462-a8a3-467d-bbef-d9caabefc4bb,prices_promotions,positive,,no
+6bbe1f73-ec7e-4894-a6bf-5eca1f478868,other,positive,,no
+e9261241-2cad-468d-92a3-abe5125718ad,customer_service,negative,,no
+7e9bd804-3080-40fd-a35c-d9f0b9ab7b3e,customer_service,negative,,no
+31c3f51a-7a92-4556-bad1-12576dcbe25a,customer_service,negative,,no
+44245125-b735-4d75-8aa4-242f9414d61b,other,positive,,no
+7a9b7c6b-560b-4de9-8c0a-642f02a351a0,other,positive,,no
+814a92d2-9999-4fa9-939c-f3b02c850b12,prices_promotions,positive,,no
+67efc4e4-9a25-43be-95df-0073b8d80db3,app_design_ux,negative,Add dark mode,no
+36f46851-c7d5-43f7-8570-77fdcfba754d,account_login,negative,,no
+77416a29-ca5c-4a0d-b68d-8b0786af4ad3,other,neutral,,no
+7a99f9d9-e3a5-40a5-9601-7ea4a1db484d,app_performance,positive,,no
+eb897292-d842-44d3-8f27-90f9aa4fe2b0,other,positive,,no
+35cbc94b-acc6-4c1f-913f-7af19e9bd079,app_design_ux,negative,,no
+efa529cc-f95a-477c-9c25-70ff06e224be,app_performance,negative,,no
+a7fb94b7-1f27-4fb9-ac72-7f3110d7ebb0,other,positive,,no
+b806195b-ab14-486c-98c7-98fae9c89f06,other,positive,,no
+af2b1863-364b-418f-aa55-01c109041eaf,search_filters,neutral,Add a vegan filter or vegan preference in profile,no
+962f9873-5265-4e4f-b2ac-def2cb5f0dc3,other,positive,,no
+eb86f60d-3661-4caf-8ae2-6584fdff75af,returns_refunds,negative,,no
+0fcbe7a2-a505-4ee6-a5bb-304bece376b4,returns_refunds,negative,,no
+856d5402-1086-4107-8ab3-a0c8aaaea67c,account_login,negative,,no
+49bbfc43-750c-4350-be17-f21a05752acc,app_performance,negative,,no
+eb9772b4-81d2-4e46-9cdf-470e7acb0722,app_design_ux,negative,,no
+2a824b11-470c-4056-8b36-47b86dd4fcbb,prices_promotions,negative,,no
+679307bf-8472-4f22-80eb-b6ee3f1a5d4f,other,positive,,no
+2be8ed46-bec7-460e-b185-713449b75c87,account_login,negative,Add a logout option,no
+6cd9d49b-5a67-404c-b8b7-50e59d58f044,delivery,negative,,no
+11cba7dd-ef32-4b6b-bce0-9d0f191544ba,sizing_fit,neutral,Offer the dress in size 50,no
+9c0ba8fb-0d0f-45e4-aa3e-db62d08ac860,sizing_fit,positive,,no
+fa1a5b28-8df9-4c2b-aa10-26135532cbff,other,positive,,no
+08770a66-3932-4c61-87eb-fd66d5894263,payment,negative,,no
+109bf855-3231-4695-95b3-44eae39c4f9f,app_design_ux,negative,,no
+12e24280-0474-4aac-82b1-619f1c761dd7,payment,negative,,no
+b5d4fbce-2c17-43f3-bb29-a69a207a5f83,search_filters,negative,,no
+817f2493-b670-433d-a618-a3ef6a2ab47f,account_login,negative,,no
+01696e2d-7929-43eb-9a64-7d7108813ed7,product_content,negative,Show material directly in product descriptions,no
+a6c27ea2-5b2a-4624-b67c-b0f038fdda21,prices_promotions,negative,,no
+53e90fb3-49f0-4ade-815e-f40d9df104a8,payment,positive,,no
+1e79f4f6-b1c9-4118-98c8-c58b5de40d60,search_filters,negative,More varied recommendations; in-app feedback option,no
