@@ -37,9 +37,7 @@ Find the biggest problems in the Zalando app and decide which one to fix first.
 
 ## Try it
 
-**Prototype:** download the repo and open `docs/checkout-prototype/index.html` in your browser. There's also a 60-second demo video in `docs/`.
-
-**Run the analysis with my data:**
+   **Prototype:** [try it live](https://ramya-rajendra.github.io/zalando-app-review-analysis/docs/checkout-prototype/) (works on desktop and mobile). There's also a 60-second demo video in `docs/`.
 
 ```bash
 git clone https://github.com/ramya-rajendra/zalando-app-review-analysis.git
