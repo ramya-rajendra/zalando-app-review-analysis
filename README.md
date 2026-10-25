@@ -18,6 +18,7 @@ Find the biggest problems in the Zalando app and decide which one to fix first.
 - Pick one feature, write a PRD and build a prototype
 
 ## Results
+![Average rating per quarter](docs/charts/4_rating.png)
 
 - About **390 negative reviews** are about the app itself (bugs and design), more than any other topic.
 - Almost **half of the "bug" complaints were really about the redesign**, not about the app crashing.
@@ -41,7 +42,7 @@ Find the biggest problems in the Zalando app and decide which one to fix first.
 **Run the analysis with my data:**
 
 ```bash
-git clone https://github.com/<ramya-rajendra>/zalando-app-review-analysis.git
+git clone https://github.com/ramya-rajendra/zalando-app-review-analysis.git
 cd zalando-app-review-analysis
 conda env create -f environment.yml
 conda activate productproj
