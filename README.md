@@ -41,7 +41,7 @@ Find the biggest problems in the Zalando app and decide which one to fix first.
 **Run the analysis with my data:**
 
 ```bash
-git clone https://github.com/<your-username>/zalando-app-review-analysis.git
+git clone https://github.com/<ramya-rajendra>/zalando-app-review-analysis.git
 cd zalando-app-review-analysis
 conda env create -f environment.yml
 conda activate productproj
