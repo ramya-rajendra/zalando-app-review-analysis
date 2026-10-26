@@ -26,6 +26,14 @@ Find the biggest problems in the Zalando app and decide which one to fix first.
 - In the funnel data, **about 55% of people who start checkout don't finish**, on every device.
 - Top priority after RICE scoring: **a more reliable checkout** (clear error messages, items reserved for 10 minutes, other payment options when a card fails).
 
+## Dashboard
+
+I built a one-page Power BI dashboard to summarise the main results: KPI cards (total reviews, % negative, average rating, feature requests), negative reviews and pain score by theme, average rating per quarter, and the checkout funnel. It can be filtered by year, sentiment and theme.
+
+![Power BI dashboard](dashboard/dashboard.png)
+
+To open it, download `dashboard/zalando_reviews_dashboard.pbix` and open it in Power BI Desktop (free).
+
 ## How it's done
 
 1. Collected 3,000 reviews with `google-play-scraper` (user names removed)
