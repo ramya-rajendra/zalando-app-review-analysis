@@ -3,6 +3,7 @@
 I analysed 3,000 German Play Store reviews of the Zalando app to find out what frustrates users most, then designed a checkout concept based on the results.
 
 *Personal portfolio project, not affiliated with Zalando.*
+**Try the clickable prototype:** [open it here](https://ramya-rajendra.github.io/zalando-app-review-analysis/docs/checkout-prototype/)
 
 ## Objective
 
