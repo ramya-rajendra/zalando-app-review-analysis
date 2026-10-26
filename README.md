@@ -4,8 +4,6 @@ I analysed 3,000 German Play Store reviews of the Zalando app to find out what f
 
 *Personal portfolio project, not affiliated with Zalando.*
 
-   ![Power BI dashboard](dashboard/dashboard.png)
-
 ## Objective
 
 Find the biggest problems in the Zalando app and decide which one to fix first.
