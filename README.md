@@ -34,7 +34,7 @@ To open it, download `dashboard/zalando_reviews_dashboard.pbix` and open it in P
 ## How it's done
 
 1. Collected 3,000 reviews with `google-play-scraper` (user names removed)
-2. Tagged each review by theme, sentiment and feature request using Claude ([prompt](docs/tagging_prompt.txt), [rules](docs/tagging_decisions.md))
+2. Tagged each review by theme, sentiment and feature request using Claude
 3. Analysed the tagged data in Python
 4. Ran funnel and retention queries in BigQuery on Google's public GA4 sample data
 5. Prioritised ideas with RICE and wrote a [PRD](docs/PRD.md)
