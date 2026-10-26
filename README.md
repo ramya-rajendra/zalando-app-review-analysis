@@ -4,7 +4,7 @@ I analysed 3,000 German Play Store reviews of the Zalando app to find out what f
 
 *Personal portfolio project, not affiliated with Zalando.*
 
-![Pain score by theme](docs/charts/2_pain_score.png)
+   ![Power BI dashboard](dashboard/dashboard.png)
 
 ## Objective
 
@@ -18,7 +18,6 @@ Find the biggest problems in the Zalando app and decide which one to fix first.
 - Pick one feature, write a PRD and build a prototype
 
 ## Results
-![Average rating per quarter](docs/charts/4_rating.png)
 
 - About **390 negative reviews** are about the app itself (bugs and design), more than any other topic.
 - Almost **half of the "bug" complaints were really about the redesign**, not about the app crashing.
